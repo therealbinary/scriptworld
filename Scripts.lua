@@ -1,5 +1,6 @@
 local Scripts = {
     [11746859781] = {
+        GameName = "Bubble Gum Clicker";
         {
             Name = "Casual GUI",
             Information = "Clean Gui, Bunch of features, a bit buggy though...",
