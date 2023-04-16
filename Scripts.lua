@@ -1,4 +1,5 @@
 local Scripts = {
+    DiscordServer = "4qnXQ4y57G",
     [11746859781] = {
         GameName = "Bubble Gum Clicker";
         {
